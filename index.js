@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Monitoring", "Protecting", "Synergy Research Institute"];
+const statusMessages = ["Monitoring Synergy Research Institute", "Protecting Synergy Research Institute"];
 
 
 let currentIndex = 0;
